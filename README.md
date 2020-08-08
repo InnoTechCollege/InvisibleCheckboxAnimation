@@ -1,2 +1,2 @@
-# OkotoksPizzaProjectPlan
-This is a demonstration of starting a project.
+# InvisibleCheckboxAnimation
+This is a demonstration of the invisible checkbox animation
